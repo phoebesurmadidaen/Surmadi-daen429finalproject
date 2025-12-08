@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ASL + WLASL datasets (do NOT commit)
+asl_alphabet_train*
+asl_alphabet_test*
+WLASL*
+*.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+data/
+datasets/
